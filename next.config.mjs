@@ -8,10 +8,7 @@ const nextConfig = {
   },
   images: {
     unoptimized: true,
-  },
-  output: 'export',
-  basePath: '/cv-jorman',
-  assetPrefix: '/cv-jorman/',
+  }
 }
 
 export default nextConfig
