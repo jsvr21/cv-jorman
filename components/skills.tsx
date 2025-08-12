@@ -75,7 +75,7 @@ export function Skills() {
         },
         {
           name: "AWS EC2",
-          logo: "https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor",
+          logo: "https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor", 
         },
         {
           name: "Vercel",
